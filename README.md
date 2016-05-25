@@ -2,7 +2,7 @@
 Double linked List in C
 More than 80 functions.
 Running well no bug for the moment.
-currently used in 200 programs in my Company without any problrem.
+currently used in 200 programs in my Company without any problem.
 
 www.llist.fr 
 
